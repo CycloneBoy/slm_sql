@@ -46,10 +46,19 @@ Performance Comparison of different Text-to-SQL methods on BIRD dev and test dat
 
 ## Model
 
-| **Model and Dataset** | Modelscope | HuggingFace |
-|-----------------------|------------|-------------|
+| **Model**                                | Base Model                  | Train Method | Modelscope                                                                                        | HuggingFace                                                                                  |
+|------------------------------------------|-----------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| SLM-SQL-Base-0.5B                        | Qwen2.5-Coder-0.5B-Instruct | SFT          | [🤖 Modelscope](https://modelscope.cn/models/cycloneboy/SLM-SQL-Base-0.5B)                        | [🤗 HuggingFace](https://huggingface.co/cycloneboy/SLM-SQL-Base-0.5B)                        |
+| SLM-SQL-0.5B                             | Qwen2.5-Coder-0.5B-Instruct | SFT + GRPO   | [🤖 Modelscope](https://modelscope.cn/models/cycloneboy/SLM-SQL-0.5B)                             | [🤗 HuggingFace](https://huggingface.co/cycloneboy/SLM-SQL-0.5B)                             |
+| CscSQL-Merge-Qwen2.5-Coder-0.5B-Instruct | Qwen2.5-Coder-0.5B-Instruct | SFT + GRPO   | [🤖 Modelscope](https://modelscope.cn/models/cycloneboy/CscSQL-Merge-Qwen2.5-Coder-0.5B-Instruct) | [🤗 HuggingFace](https://huggingface.co/cycloneboy/CscSQL-Merge-Qwen2.5-Coder-0.5B-Instruct) |
+| SLM-SQL-Base-1.5B                        | Qwen2.5-Coder-1.5B-Instruct | SFT          | [🤖 Modelscope](https://modelscope.cn/models/cycloneboy/SLM-SQL-Base-1.5B)                        | [🤗 HuggingFace](https://huggingface.co/cycloneboy/SLM-SQL-Base-1.5B)                        |
+| SLM-SQL-1.5B                             | Qwen2.5-Coder-1.5B-Instruct | SFT + GRPO   | [🤖 Modelscope](https://modelscope.cn/models/cycloneboy/SLM-SQL-1.5B)                             | [🤗 HuggingFace](https://huggingface.co/cycloneboy/SLM-SQL-1.5B)                             |
+| CscSQL-Merge-Qwen2.5-Coder-1.5B-Instruct | Qwen2.5-Coder-1.5B-Instruct | SFT + GRPO   | [🤖 Modelscope](https://modelscope.cn/models/cycloneboy/CscSQL-Merge-Qwen2.5-Coder-1.5B-Instruct) | [🤗 HuggingFace](https://huggingface.co/cycloneboy/CscSQL-Merge-Qwen2.5-Coder-1.5B-Instruct) |
+
+
 
 ## Dataset
+
 
 | **Dataset**                | Modelscope                                                                         | HuggingFace                                                                          |
 |----------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
