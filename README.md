@@ -75,14 +75,14 @@ Performance Comparison of different Text-to-SQL methods on BIRD dev and test dat
 
 ```bibtex
 
-@misc{sheng2025cscsqlcorrectiveselfconsistencytexttosql,
-      title={SLM-SQL: An Exploration of Small Language Models for Text-to-SQL }, 
+@misc{sheng2025slmsqlexplorationsmalllanguage,
+      title={SLM-SQL: An Exploration of Small Language Models for Text-to-SQL}, 
       author={Lei Sheng and Shuai-Shuai Xu},
       year={2025},
-      eprint={xxx},
+      eprint={2507.22478},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/xxx}, 
+      url={https://arxiv.org/abs/2507.22478}, 
 }
 
 @misc{sheng2025cscsqlcorrectiveselfconsistencytexttosql,
