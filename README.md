@@ -2,9 +2,9 @@
 
 ### Important Links
 
-📖[Arxiv Paper](https://arxiv.org/abs/2505.13271) |
-🤗[HuggingFace](https://huggingface.co/collections/cycloneboy/csc-sql-6835c4a52da10c54bbe14f8e) |
-🤖[ModelScope](https://modelscope.cn/collections/CSC-SQL-8542177708b643) |
+📖[Arxiv Paper](https://arxiv.org/abs/2507.22478) |
+🤗[HuggingFace](https://huggingface.co/collections/cycloneboy/slm-sql-688b02f99f958d7a417658dc) |
+🤖[ModelScope](https://modelscope.cn/collections/SLM-SQL-624bb6a60e9643) |
 
 ## News
 
