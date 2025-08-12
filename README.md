@@ -7,7 +7,7 @@
 🤖[ModelScope](https://modelscope.cn/collections/SLM-SQL-624bb6a60e9643) |
 
 ## News
-
++ `August 12, 2025`: The SLM-SQL prediction results on the BIRD Dev dataset.
 + `August 1, 2025`: The SLM-SQL 1.5B model achieved an Execution Accuracy (EX) of 70.49% on the BIRD test set, while the 0.5B model attained an EX of 61.82%.
 + `July 31, 2025`: Upload model to modelscope and huggingface.
 + `July 30, 2025`: Publish the paper to arxiv
